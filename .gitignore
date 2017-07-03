@@ -1,0 +1,9 @@
+# plugins
+node_modules
+
+# temp
+build
+
+# log
+npm-debug.log
+status.json
