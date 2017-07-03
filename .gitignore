@@ -1,9 +1,9 @@
-# plugins
+.DS_STORE
+*.log
+*.log.*
+
 node_modules
 
-# temp
-build
-
-# log
-npm-debug.log
-status.json
+dist
+coverage
+.idea/
