@@ -11,8 +11,8 @@ export default class Zen extends Component {
     return (
       <div>
         <div className='loading'>
-          { fetching ?
-            <Spinner spinnerName='double-bounce' /> : ''
+          { fetching
+            ? <Spinner spinnerName='double-bounce' /> : ''
           }
         </div>
         <div>
