@@ -1,16 +1,10 @@
 import React from 'react'
 import PropTypes from 'prop-types'
-import Header from '../../components/Header'
-import Footer from '../../components/Footer'
+import Body from '../../components/Body'
+import './CoreLayout.scss'
 
-export const CoreLayout = ({ children }) => (
-  <div className='container text-center'>
-    <Header />
-    <div className='core-layout__viewport'>
-      {children}
-    </div>
-    <Footer />
-  </div>
+export const CoreLayout = () => (
+  < Body / >
 )
 
 CoreLayout.propTypes = {
