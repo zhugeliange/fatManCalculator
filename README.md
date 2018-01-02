@@ -4,7 +4,7 @@
 
 **效果如下：**
 
-![fatmancalculate1](http://oj6n9nf7i.bkt.clouddn.com/image/test/fatmancalculate1.png)
+![fatmancalculate](http://oj6n9nf7i.bkt.clouddn.com/image/test/fatmancalculate.png)
 
 - 项目说明：
 
